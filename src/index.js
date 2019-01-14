@@ -2,7 +2,7 @@
 import 'babel-polyfill'
 
 // import stylesheet
-import './scss/main.scss'
+import './scss/_custom.scss'
 
 // Import JS files
 import 'bootstrap'
