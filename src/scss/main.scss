@@ -1,7 +1,2 @@
-@import "./custom";
-@import "/node_modules/bootstrap/scss/bootstrap.scss";
-
-$color-orange: #f98a09;
-body {
-  background: $color-orange;
-}
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import './custom'
